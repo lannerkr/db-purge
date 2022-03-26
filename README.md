@@ -14,4 +14,4 @@
 // version 1.3
 // scheduling add
 // version 1.3.2
-// second loop condition fix : "now.Minute() = 50" --> "now.Minute() >= 50"
+// second loop condition fix : "now.Minute() > 50" --> "now.Minute() >= 50"
