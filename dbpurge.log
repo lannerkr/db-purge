@@ -1,0 +1,219 @@
+2022/03/20 12:31:18 days since last login are updated at : 2022-03-20 12:31:18
+2022/03/20 12:36:01 days since last login are updated at : 2022-03-20 12:36:01
+2022/03/20 13:11:12 days since last login are updated at : 2022-03-20 13:11:12
+2022/03/20 13:40:03 days since last login are updated at : 2022-03-20 13:40:03
+2022/03/20 18:07:07 days since last login are updated at : 2022-03-20 18:07:07
+2022/03/20 18:07:08 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:08 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:09 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:09 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:10 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:10 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:11 username:  store-113 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:07:11 user  store-117  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-116  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-101  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-102  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-114  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-115  enabled status is updated to FALSE !!!
+2022/03/20 18:07:11 user  store-113  enabled status is updated to FALSE !!!
+2022/03/20 18:11:27 Successfully connected and pinged.
+2022/03/20 18:11:27 days since last login are updated at : 2022-03-20 18:11:27
+2022/03/20 18:11:27 user: store-117 is checked OK.
+2022/03/20 18:11:28 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:29 user: store-116 is checked OK.
+2022/03/20 18:11:29 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:30 user: store-101 is checked OK.
+2022/03/20 18:11:30 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:31 user: store-102 is checked OK.
+2022/03/20 18:11:31 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:32 user: store-114 is checked OK.
+2022/03/20 18:11:32 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:33 user: store-115 is checked OK.
+2022/03/20 18:11:33 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:34 user: store-113 is checked OK.
+2022/03/20 18:11:35 username:  store-113 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:11:35 user  store-117  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-116  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-101  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-102  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-114  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-115  enabled status is updated to FALSE !!!
+2022/03/20 18:11:35 user  store-113  enabled status is updated to FALSE !!!
+2022/03/20 18:13:02 Successfully connected and pinged.
+2022/03/20 18:13:02 days since last login are updated at : 2022-03-20 18:13:02
+2022/03/20 18:13:02 user: store-117 is checked OK.
+2022/03/20 18:13:03 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:03 user: store-116 is checked OK.
+2022/03/20 18:13:04 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:04 user: store-101 is checked OK.
+2022/03/20 18:13:05 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:05 user: store-102 is checked OK.
+2022/03/20 18:13:06 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:06 user: store-114 is checked OK.
+2022/03/20 18:13:07 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:07 user: store-115 is checked OK.
+2022/03/20 18:13:08 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:13:09 user: store-113 is not existed in realm store.local
+2022/03/20 18:13:09 user  store-117  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-116  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-101  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-102  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-114  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-115  enabled status is updated to FALSE !!!
+2022/03/20 18:13:09 user  store-113  enabled status is updated to FALSE !!!
+2022/03/20 18:18:55 Successfully connected and pinged.
+2022/03/20 18:18:55 days since last login are updated at : 2022-03-20 18:18:55
+2022/03/20 18:18:56 user: part-101 is not existed in realm parnter.local
+2022/03/20 18:18:56 user: part-111 is not existed in realm parnter.local
+2022/03/20 18:18:57 user: part-112 is not existed in realm parnter.local
+2022/03/20 18:18:57 user  part-101  enabled status is updated to FALSE !!!
+2022/03/20 18:18:57 user  part-111  enabled status is updated to FALSE !!!
+2022/03/20 18:18:57 user  part-112  enabled status is updated to FALSE !!!
+2022/03/20 18:24:27 Successfully connected and pinged.
+2022/03/20 18:24:27 days since last login are updated at : 2022-03-20 18:24:27
+2022/03/20 18:24:27 user: store-117 is checked OK.
+2022/03/20 18:24:28 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:28 user: store-116 is checked OK.
+2022/03/20 18:24:29 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:29 user: store-101 is checked OK.
+2022/03/20 18:24:30 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:30 user: store-102 is checked OK.
+2022/03/20 18:24:31 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:31 user: store-114 is checked OK.
+2022/03/20 18:24:32 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:32 user: store-115 is checked OK.
+2022/03/20 18:24:33 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:34 user: store-113 is not existed in realm store.local
+2022/03/20 18:24:34 user: part-101 is checked OK.
+2022/03/20 18:24:35 username:  part-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:35 user: part-111 is checked OK.
+2022/03/20 18:24:36 username:  part-111 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:36 user: part-112 is checked OK.
+2022/03/20 18:24:37 username:  part-112 ,  map[enabled:false] , result-code:  200
+2022/03/20 18:24:37 user [store-117] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-116] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-101] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-102] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-114] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-115] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [store-113] enabled status is updated to [Deleted] !!!
+2022/03/20 18:24:37 user [part-101] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [part-111] enabled status is updated to [False] !!!
+2022/03/20 18:24:37 user [part-112] enabled status is updated to [False] !!!
+2022/03/20 19:03:04 Task has been scheduled successfully.
+2022/03/20 19:39:16 scheduled DB purge Task is executed
+2022/03/20 19:39:16 Successfully connected and pinged.
+2022/03/20 19:39:16 days since last login are updated at : 2022-03-20 19:39:16
+2022/03/20 19:39:17 user: store-101 is checked OK.
+2022/03/20 19:39:17 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:39:18 user: store-114 is checked OK.
+2022/03/20 19:39:18 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:39:19 user: part-112 is checked OK.
+2022/03/20 19:39:19 username:  part-112 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:39:19 user [store-101] enabled status is updated to [False] !!!
+2022/03/20 19:39:19 user [store-114] enabled status is updated to [False] !!!
+2022/03/20 19:39:19 user [part-112] enabled status is updated to [False] !!!
+2022/03/20 19:46:46 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:46:46 Successfully connected and pinged.
+2022/03/20 19:46:46 days since last login are updated at : 2022-03-20 19:46:46
+2022/03/20 19:47:46 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:47:46 Successfully connected and pinged.
+2022/03/20 19:47:46 days since last login are updated at : 2022-03-20 19:47:46
+2022/03/20 19:47:46 user: store-117 is checked OK.
+2022/03/20 19:47:47 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:47 user: store-116 is checked OK.
+2022/03/20 19:47:48 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:49 user: store-101 is checked OK.
+2022/03/20 19:47:49 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:49 user: store-102 is checked OK.
+2022/03/20 19:47:50 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:50 user: store-114 is checked OK.
+2022/03/20 19:47:51 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:52 user: store-115 is checked OK.
+2022/03/20 19:47:52 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:53 user: store-113 is not existed in realm store.local
+2022/03/20 19:47:53 user: part-101 is checked OK.
+2022/03/20 19:47:54 username:  part-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:54 user: part-111 is checked OK.
+2022/03/20 19:47:55 username:  part-111 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:55 user: part-112 is checked OK.
+2022/03/20 19:47:56 username:  part-112 ,  map[enabled:false] , result-code:  200
+2022/03/20 19:47:56 user [store-117] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-116] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-101] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-102] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-114] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-115] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [store-113] enabled status is updated to [Deleted] !!!
+2022/03/20 19:47:56 user [part-101] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [part-111] enabled status is updated to [False] !!!
+2022/03/20 19:47:56 user [part-112] enabled status is updated to [False] !!!
+2022/03/20 19:48:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:48:56 Successfully connected and pinged.
+2022/03/20 19:48:56 days since last login are updated at : 2022-03-20 19:48:56
+2022/03/20 19:49:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:49:56 Successfully connected and pinged.
+2022/03/20 19:49:56 days since last login are updated at : 2022-03-20 19:49:56
+2022/03/20 19:50:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:50:56 Successfully connected and pinged.
+2022/03/20 19:50:56 days since last login are updated at : 2022-03-20 19:50:56
+2022/03/20 19:51:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:51:56 Successfully connected and pinged.
+2022/03/20 19:51:56 days since last login are updated at : 2022-03-20 19:51:56
+2022/03/20 19:52:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:52:56 Successfully connected and pinged.
+2022/03/20 19:52:56 days since last login are updated at : 2022-03-20 19:52:56
+2022/03/20 19:53:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:53:56 Successfully connected and pinged.
+2022/03/20 19:53:56 days since last login are updated at : 2022-03-20 19:53:56
+2022/03/20 19:54:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:54:56 Successfully connected and pinged.
+2022/03/20 19:54:56 days since last login are updated at : 2022-03-20 19:54:56
+2022/03/20 19:55:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:55:56 Successfully connected and pinged.
+2022/03/20 19:55:56 days since last login are updated at : 2022-03-20 19:55:56
+2022/03/20 19:56:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:56:56 Successfully connected and pinged.
+2022/03/20 19:56:56 days since last login are updated at : 2022-03-20 19:56:56
+2022/03/20 19:57:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:57:56 Successfully connected and pinged.
+2022/03/20 19:57:56 days since last login are updated at : 2022-03-20 19:57:56
+2022/03/20 19:58:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:58:56 Successfully connected and pinged.
+2022/03/20 19:58:56 days since last login are updated at : 2022-03-20 19:58:56
+2022/03/20 19:59:56 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 19:59:56 Successfully connected and pinged.
+2022/03/20 19:59:56 days since last login are updated at : 2022-03-20 19:59:56
+2022/03/20 21:00:15 [schedule] scheduledTask DB purge Task is executed
+2022/03/20 21:00:15 Successfully connected and pinged.
+2022/03/20 21:00:15 days since last login are updated at : 2022-03-20 21:00:15
+2022/03/20 21:00:15 user: store-117 is checked OK.
+2022/03/20 21:00:16 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:16 user: store-116 is checked OK.
+2022/03/20 21:00:17 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:17 user: store-101 is checked OK.
+2022/03/20 21:00:18 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:18 user: store-102 is checked OK.
+2022/03/20 21:00:19 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:19 user: store-114 is checked OK.
+2022/03/20 21:00:20 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:20 user: store-115 is checked OK.
+2022/03/20 21:00:21 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:22 user: store-113 is not existed in realm store.local
+2022/03/20 21:00:22 user: part-101 is checked OK.
+2022/03/20 21:00:23 username:  part-101 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:23 user: part-111 is checked OK.
+2022/03/20 21:00:24 username:  part-111 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:24 user: part-112 is checked OK.
+2022/03/20 21:00:25 username:  part-112 ,  map[enabled:false] , result-code:  200
+2022/03/20 21:00:25 user [store-117] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-116] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-101] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-102] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-114] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-115] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [store-113] enabled status is updated to [Deleted] !!!
+2022/03/20 21:00:25 user [part-101] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [part-111] enabled status is updated to [False] !!!
+2022/03/20 21:00:25 user [part-112] enabled status is updated to [False] !!!

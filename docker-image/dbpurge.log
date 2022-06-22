@@ -1,0 +1,60 @@
+2022/03/21 13:08:34 firtst loop started 2022-03-21 13:08:34.465978931 +0900 KST m=+0.005159801
+2022/03/21 13:08:34 second loop checked 2022-03-21 13:08:34.466002113 +0900 KST m=+0.005182989
+2022/03/21 13:18:34 second loop checked 2022-03-21 13:18:34.476230873 +0900 KST m=+600.015411745
+2022/03/21 13:28:34 second loop checked 2022-03-21 13:28:34.533669208 +0900 KST m=+1200.072850090
+2022/03/21 13:37:27 firtst loop checked 2022-03-21 13:37:27.57306712 +0900 KST m=+0.003929951
+2022/03/21 14:00:27 [schedule] scheduledTask DB purge Task is executed
+2022/03/21 14:00:27 Successfully connected and pinged.
+2022/03/21 14:00:27 days since last login are updated at : 2022-03-21 14:00:27
+2022/03/21 14:00:28 user: store-117 is checked OK.
+2022/03/21 14:00:29 username:  store-117 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:29 user: store-116 is checked OK.
+2022/03/21 14:00:30 username:  store-116 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:30 user: store-101 is checked OK.
+2022/03/21 14:00:30 username:  store-101 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:31 user: store-102 is checked OK.
+2022/03/21 14:00:31 username:  store-102 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:32 user: store-114 is checked OK.
+2022/03/21 14:00:33 username:  store-114 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:33 user: store-115 is checked OK.
+2022/03/21 14:00:34 username:  store-115 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:34 user: store-113 is not existed in realm store.local
+2022/03/21 14:00:35 user: part-101 is checked OK.
+2022/03/21 14:00:35 username:  part-101 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:36 user: part-111 is checked OK.
+2022/03/21 14:00:36 username:  part-111 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:37 user: part-112 is checked OK.
+2022/03/21 14:00:38 username:  part-112 ,  map[enabled:false] , result-code:  200
+2022/03/21 14:00:38 user [store-117] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-116] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-101] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-102] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-114] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-115] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [store-113] enabled status is updated to [Deleted] !!!
+2022/03/21 14:00:38 user [part-101] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [part-111] enabled status is updated to [False] !!!
+2022/03/21 14:00:38 user [part-112] enabled status is updated to [False] !!!
+2022/03/21 15:00:38 firtst loop checked 2022-03-21 15:00:38.145481316 +0900 KST m=+4990.576344118
+2022/03/21 16:00:38 firtst loop checked 2022-03-21 16:00:38.184961796 +0900 KST m=+8590.615824609
+2022/03/21 17:00:38 firtst loop checked 2022-03-21 17:00:38.187418851 +0900 KST m=+12190.618281697
+2022/03/21 18:00:38 firtst loop checked 2022-03-21 18:00:38.255762772 +0900 KST m=+15790.686625567
+2022/03/21 19:00:38 firtst loop checked 2022-03-21 19:00:38.268677139 +0900 KST m=+19390.699539955
+2022/03/21 20:00:38 firtst loop checked 2022-03-21 20:00:38.326088655 +0900 KST m=+22990.756951468
+2022/03/21 21:00:38 firtst loop checked 2022-03-21 21:00:38.427406709 +0900 KST m=+26590.858269508
+2022/03/21 22:00:38 firtst loop checked 2022-03-21 22:00:38.531454858 +0900 KST m=+30190.962317676
+2022/03/21 23:00:38 firtst loop checked 2022-03-21 23:00:38.555073819 +0900 KST m=+33790.985936613
+2022/03/22 00:00:38 firtst loop checked 2022-03-22 00:00:38.635390849 +0900 KST m=+37391.066253648
+2022/03/22 01:00:38 firtst loop checked 2022-03-22 01:00:38.741435468 +0900 KST m=+40991.172298302
+2022/03/22 02:00:38 firtst loop checked 2022-03-22 02:00:38.82690541 +0900 KST m=+44591.257768220
+2022/03/22 03:00:38 firtst loop checked 2022-03-22 03:00:38.945070589 +0900 KST m=+48191.375933433
+2022/03/22 04:00:39 firtst loop checked 2022-03-22 04:00:39.027562266 +0900 KST m=+51791.458425076
+2022/03/22 05:00:39 firtst loop checked 2022-03-22 05:00:39.077134418 +0900 KST m=+55391.507997243
+2022/03/22 06:00:39 firtst loop checked 2022-03-22 06:00:39.176156104 +0900 KST m=+58991.607018921
+2022/03/22 07:00:39 firtst loop checked 2022-03-22 07:00:39.275905621 +0900 KST m=+62591.706768447
+2022/03/22 08:00:39 firtst loop checked 2022-03-22 08:00:39.377382911 +0900 KST m=+66191.808245709
+2022/03/22 09:00:39 firtst loop checked 2022-03-22 09:00:39.504419091 +0900 KST m=+69791.935281923
+2022/03/22 10:00:39 firtst loop checked 2022-03-22 10:00:39.612288966 +0900 KST m=+73392.043151760
+2022/03/22 11:00:39 firtst loop checked 2022-03-22 11:00:39.615289845 +0900 KST m=+76992.046152644
+2022/03/22 12:00:39 firtst loop checked 2022-03-22 12:00:39.645068037 +0900 KST m=+80592.075930839
+2022/03/22 13:00:39 firtst loop checked 2022-03-22 13:00:39.657818484 +0900 KST m=+84192.088681291

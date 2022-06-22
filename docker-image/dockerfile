@@ -1,0 +1,13 @@
+FROM minideb-kr:latest
+
+MAINTAINER "lannerkr@gmail.com"
+
+COPY ./db-purge-v1.3.3 /usr/local/bin
+
+WORKDIR /mnt/src
+
+ENTRYPOINT [ "db-purge-v1.3.3", "/mnt/src/dbpurge-conf.json" ]
+
+##VOLUME ["/data/docker/utils/db-purge", "/mnt/src" ]
+
+LABEL description="This is an app that read mongdb user_history and purge old users and update pulsesecure user status"
