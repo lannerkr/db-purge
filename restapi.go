@@ -27,6 +27,8 @@ func updateUser(d []bson.D) []DisabledUsers {
 			auth = "02.store.local"
 		case "partner":
 			auth = "03.partner.local"
+		case "EMP-GOTP":
+			auth = "emp.local"
 		case "emp":
 			continue
 		default:
@@ -74,7 +76,7 @@ func updateUser(d []bson.D) []DisabledUsers {
 		}
 		defer resp.Body.Close()
 
-		log.Println("username: ", user, ", ", status, ", result-code: ", resp.StatusCode)
+		log.Println("[SSLVPN] username: ", user, ", ", status, ", result-code: ", resp.StatusCode)
 		if resp.StatusCode == 200 {
 			users := DisabledUsers{user, "False"}
 			disabledUsers = append(disabledUsers, users)
@@ -109,10 +111,10 @@ func checkUser(user, auth string) bool {
 	defer resp.Body.Close()
 
 	if resp.StatusCode == 200 {
-		log.Println("user: " + user + " is checked OK.")
+		log.Println("[SSLVPN] user: " + user + " is checked OK.")
 		return true
 	} else {
-		log.Println("user: " + user + " is not existed in realm " + auth)
+		log.Println("[SSLVPN] user: " + user + " is not existed in realm " + auth)
 		return false
 	}
 }

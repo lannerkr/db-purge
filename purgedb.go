@@ -19,7 +19,7 @@ func purgedb(coll *mongo.Collection) {
 	day := bson.M{"$divide": []interface{}{sub, 1000 * 60 * 60 * 24}}
 	trunc := bson.M{"$trunc": day}
 	updays := bson.M{"days": trunc}
-	update := bson.D{{"$set", updays}}
+	update := bson.D{{Key: "$set", Value: updays}}
 
 	_, err := coll.UpdateMany(context.TODO(), filter, mongo.Pipeline{update})
 	if err != nil {
@@ -32,9 +32,19 @@ func purgedb(coll *mongo.Collection) {
 
 func oldusers(coll *mongo.Collection) {
 	days := configuration.CheckDays
-	f1 := bson.D{{"days", bson.D{{"$gte", days}}}, {"enabled", "True"}}
+	daysEmp := configuration.CheckDaysEmp
+	loc := time.FixedZone("KST", +9*60*60)
+	currentTime := time.Now().In(loc)
+	nonExpire := time.Date(2000, 01, 01, 00, 00, 00, 00, loc)
 
-	filter := bson.D{{"$match", f1}}
+	f12 := bson.D{
+		{Key: "$or", Value: bson.A{
+			bson.D{{Key: "realm", Value: bson.D{{Key: "$ne", Value: "EMP-GOTP"}}}, {Key: "days", Value: bson.D{{Key: "$gte", Value: days}}}, {Key: "enabled", Value: "True"}},
+			bson.D{{Key: "realm", Value: bson.D{{Key: "$eq", Value: "EMP-GOTP"}}}, {Key: "days", Value: bson.D{{Key: "$gte", Value: daysEmp}}}, {Key: "enabled", Value: "True"}},
+			bson.D{{Key: "enabled", Value: "True"}, {Key: "accountExpires", Value: bson.D{{Key: "$lte", Value: currentTime}}}, {Key: "accountExpires", Value: bson.D{{Key: "$gte", Value: nonExpire}}}},
+		}},
+	}
+	filter := bson.D{{Key: "$match", Value: f12}}
 
 	result, err := coll.Aggregate(context.TODO(), mongo.Pipeline{filter})
 	if err != nil {
@@ -45,6 +55,7 @@ func oldusers(coll *mongo.Collection) {
 	if err := result.All(context.TODO(), &olduser); err != nil {
 		panic(err)
 	}
+	//log.Printf("olduser : \n %v\n", olduser)
 
 	disabledUsers := updateUser(olduser)
 	//= []DisabledUsers{{"store-101", "True"}}
@@ -69,6 +80,6 @@ func dbStatusUpdate(coll *mongo.Collection, disabledUsers []DisabledUsers) {
 			panic(err)
 		}
 
-		log.Println("user [" + user + "] enabled status is updated to [" + status + "] !!!")
+		log.Println("[DB] user [" + user + "] enabled status is updated to [" + status + "] !!!")
 	}
 }

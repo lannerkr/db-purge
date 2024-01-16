@@ -9,6 +9,7 @@ import (
 type Configuration struct {
 	MongoDB      string
 	CheckDays    int
+	CheckDaysEmp int
 	PulseUri     string
 	PulseApiKey  string
 	LogPath      string

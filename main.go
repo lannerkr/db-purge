@@ -19,6 +19,15 @@ package main
 // version 1.5 [2022-06-21]
 // auth server name changed : store.local -> 02.store.local, partner.local -> 03.partner.local
 
+// version 1.6 [2024-01-10]
+// EMP-GOTP realm add
+// version 1.7 [2024-01-11]
+// accountExpires add
+
+// version 1.8 [2024-01-11]
+// seperate config daysEMP for EMP-GOTP and days for others
+// add disabled users for accountExpires
+
 import (
 	"context"
 	"log"
@@ -50,6 +59,10 @@ func main() {
 
 	//////////////////////
 	// scheduledTask()
+	// if scheduleTime <= 24 {
+	// 	time.Sleep(time.Minute * 10)
+	// 	os.Exit(0)
+	// }
 	//////////////////////
 
 	for {

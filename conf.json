@@ -1,9 +1,10 @@
 {
 	"MongoDB": "mongoadmin:secret@192.168.0.157:27017",
-	"CheckDays": 0,
+	"CheckDays": 90,
+	"CheckDaysEmp": 30,
 	"PulseUri": "https://192.168.0.174",
-	"PulseApiKey": "ptN9OdCYWXnAwAgOmTdRPF9UfMXBqzQxkBy1OmpCwmw=",
+	"PulseApiKey": "cA5Vta3Mg5rl/l2ebi0iYScH0j9evUfGs361vtD6JBo=",
 	"LogPath": "/mnt/src/dbpurge.log",
-	"ScheduleTime": 2
+	"ScheduleTime": 12
 
 }
